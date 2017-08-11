@@ -1,0 +1,17 @@
+{
+  "name": "GammaRay",
+  "version": "1.0.0",
+  "description": "Streaming object versions from kinesis into s3.",
+  "repository": "https://github.com/transfix/gamma_ray.git",
+  "engines": {
+    "node": "4.3",
+    "npm": "2.14.12"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "domain": "0.0.1",
+    "fs": "0.0.1-security",
+    "aws-sdk": "2.7.13"
+  }
+}
