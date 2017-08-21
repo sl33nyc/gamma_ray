@@ -1,6 +1,6 @@
 # GammaRay
 
-Sends events to DynamoDB from ActiveRecord (more sources coming soon).
+Sends events to S3 from ActiveRecord (more sources coming soon).
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ### Setup
 
-Set your DynamoDB table name in an initializer.
+Set your S3 table name in an initializer.
 
 `config/initializers/gamma_ray.rb`
 
